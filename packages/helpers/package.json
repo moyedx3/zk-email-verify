@@ -15,6 +15,7 @@
     "src"
   ],
   "dependencies": {
+    "@zk-email/helpers": "^6.1.5",
     "addressparser": "^1.0.1",
     "atob": "^2.1.2",
     "circomlibjs": "^0.1.7",

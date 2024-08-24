@@ -2795,7 +2795,7 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@zk-email/helpers@workspace:packages/helpers":
+"@zk-email/helpers@^6.1.5, @zk-email/helpers@workspace:packages/helpers":
   version: 0.0.0-use.local
   resolution: "@zk-email/helpers@workspace:packages/helpers"
   dependencies:
@@ -2811,6 +2811,7 @@ __metadata:
     "@types/psl": ^1.1.2
     "@typescript-eslint/eslint-plugin": ^7.0.0
     "@typescript-eslint/parser": ^7.0.0
+    "@zk-email/helpers": ^6.1.5
     addressparser: ^1.0.1
     atob: ^2.1.2
     babel-jest: ^29.5.0
